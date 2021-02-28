@@ -1,6 +1,6 @@
 ## Hi there ![HiThere](./assets/waving-hand.gif)
 
-I'm Luka Kerečeni, junior FullStack Web Developer from Croatia.
+I'm Luka Kerečeni, Frontend Developer from Croatia.
 
 :mailbox: Let's talk!
 
